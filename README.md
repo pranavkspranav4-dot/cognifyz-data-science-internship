@@ -1,94 +1,84 @@
 # Cognifyz Technologies – Data Science Internship
 
-## 📌 Overview
+## Project Overview
 
-This repository contains the tasks, analysis, visualizations, and final report completed as part of my **Data Science Internship at Cognifyz Technologies**.
+This repository contains the tasks and reports completed as part of my Data Science internship at Cognifyz Technologies.
 
-The internship provided an opportunity to apply Python programming and data analysis techniques to datasets, perform exploratory data analysis, create visualizations, and extract meaningful insights.
+The project focuses on data analysis, exploratory data analysis (EDA), statistical summaries, and data visualization using Python.
 
-## 🎯 Objectives
+## Internship Objectives
 
-* Practice data cleaning and preprocessing.
-* Perform exploratory data analysis (EDA).
-* Analyze datasets to identify patterns and trends.
-* Create meaningful data visualizations.
-* Calculate statistical summaries and interpret results.
-* Improve practical Python and data analysis skills.
+* Perform data cleaning and preprocessing.
+* Explore datasets and identify patterns.
+* Analyze ratings, cuisines, prices, and restaurant-related information where applicable.
+* Create visualizations to communicate findings.
+* Develop practical Python and data analysis skills.
 
-## 📂 Repository Structure
+## Tasks Completed
 
-```text
-cognifyz-data-science-internship/
-│
-├── Data_science_internship/
-│   └── Supporting project files
-│
-├── dataset/
-│   └── Dataset files used for analysis
-│
-├── Level1/
-│   └── Level 1 internship tasks
-│
-├── Level2/
-│   └── Level 2 internship tasks
-│
-├── Level3/
-│   └── Level 3 internship tasks
-│
-├── COGNIFYZ TECHNOLOGIES_final_report.docx
-│
-└── README.md
-```
+The repository includes the following notebooks and supporting reports:
 
-*The folder descriptions above are general. Update them to match the actual files inside each folder.*
+* **Task 1:** Data analysis and exploration.
+* **Task 2:** Additional analysis and visualization.
+* **Task 3:** Further analysis of the internship dataset.
 
-## 🛠️ Tools and Technologies
+*Please update these task descriptions to match the actual objectives in each notebook.*
 
-* **Programming Language:** Python
-* **Data Manipulation:** Pandas, NumPy
-* **Data Visualization:** Matplotlib, Seaborn
-* **Environment:** Jupyter Notebook / Google Colab (as applicable)
-* **Version Control:** Git and GitHub
+## Tools and Technologies
 
-## 📊 Internship Tasks
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Jupyter Notebook
 
-The repository is organized into three levels of internship tasks.
+## Repository Contents
 
-### Level 1
+* `task1.ipynb` – First internship task.
+* `task2.ipynb` – Second internship task.
+* `task3.ipynb` – Third internship task.
+* Internship reports – Documentation of the completed work.
 
-Contains the initial internship tasks and related analysis files.
+See the files in this repository for the code, analysis, and results.
 
-### Level 2
+## Key Learning Outcomes
 
-Contains additional data analysis tasks, visualizations, and findings.
+* Data manipulation and preprocessing using Pandas.
+* Exploratory data analysis.
+* Statistical analysis and rating comparisons.
+* Data visualization and interpretation.
+* Documenting analytical work in Jupyter notebooks.
 
-### Level 3
+## How to Run
 
-Contains advanced or subsequent internship tasks and their related files.
+1. Clone or download this repository.
 
-Refer to the notebooks and reports in each folder for the specific problem statements, methodology, code, and results.
+2. Install Python and Jupyter Notebook.
 
-## 📈 Key Learning Outcomes
+3. Install the required libraries:
 
-Through this internship, I practiced:
+   ```bash
+   pip install pandas numpy matplotlib seaborn jupyter
+   ```
 
-* Working with datasets using Pandas and NumPy.
-* Cleaning and preparing data for analysis.
-* Exploring data distributions and relationships.
-* Creating charts to communicate findings.
-* Interpreting analytical results.
-* Organizing and documenting project work.
+4. Open the required notebook and run the cells in sequence.
 
-## 📄 Final Report
+5. If a dataset is required, place it in the expected location and update the file path if necessary.
 
-The repository includes my final internship report, which summarizes the completed work and findings.
-
-## 👨‍💻 Author
+## Author
 
 **Pranav K. S.**
 
 B.Sc. Physics | Data Science
 
 GitHub: [pranavkspranav4-dot](https://github.com/pranavkspranav4-dot)
+
+## Acknowledgment
+
+Thanks to Cognifyz Technologies for providing the opportunity to work on Data Science internship tasks and strengthen my practical analytical skills.
+
+---
+
 
 
